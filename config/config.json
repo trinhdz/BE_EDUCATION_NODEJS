@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "freedb_larrylenw",
+    "password": "Dj4Z4gFW9?dR#6M",
+    "database": "freedb_education2023",
+    "host": "sql.freedb.tech",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "freedb_larrylenw",
+    "password": "Dj4Z4gFW9?dR#6M",
+    "database": "freedb_education2023",
+    "host": "sql.freedb.tech",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "freedb_larrylenw",
+    "password": "Dj4Z4gFW9?dR#6M",
+    "database": "freedb_education2023",
+    "host": "sql.freedb.tech",
+    "dialect": "mysql"
+  }
+}
